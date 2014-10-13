@@ -1,4 +1,4 @@
-BankApp
+bank-app-iOS
 =======
 
 iOS Demo of API for Bank Hapoalim Contest BankApp
